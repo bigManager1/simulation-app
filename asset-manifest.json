@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simulation-app-public/static/css/main.74a4e448.chunk.css",
+    "main.js": "/simulation-app-public/static/js/main.6b931ac0.chunk.js",
+    "main.js.map": "/simulation-app-public/static/js/main.6b931ac0.chunk.js.map",
+    "runtime-main.js": "/simulation-app-public/static/js/runtime-main.dc000565.js",
+    "runtime-main.js.map": "/simulation-app-public/static/js/runtime-main.dc000565.js.map",
+    "static/js/2.3f100434.chunk.js": "/simulation-app-public/static/js/2.3f100434.chunk.js",
+    "static/js/2.3f100434.chunk.js.map": "/simulation-app-public/static/js/2.3f100434.chunk.js.map",
+    "static/js/3.40c2f33e.chunk.js": "/simulation-app-public/static/js/3.40c2f33e.chunk.js",
+    "static/js/3.40c2f33e.chunk.js.map": "/simulation-app-public/static/js/3.40c2f33e.chunk.js.map",
+    "index.html": "/simulation-app-public/index.html",
+    "static/css/main.74a4e448.chunk.css.map": "/simulation-app-public/static/css/main.74a4e448.chunk.css.map",
+    "static/js/2.3f100434.chunk.js.LICENSE.txt": "/simulation-app-public/static/js/2.3f100434.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simulation-app-public/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc000565.js",
+    "static/js/2.3f100434.chunk.js",
+    "static/css/main.74a4e448.chunk.css",
+    "static/js/main.6b931ac0.chunk.js"
+  ]
+}
